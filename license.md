@@ -9,7 +9,7 @@ The **👻 Snapchat Viewer** is the most advanced tool for viewing Snapchat stor
 
 <div align="center">
 
-[![Download Snapchat Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/snapchat-viewer-free)
+[![Download Snapchat Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/snapchat-viewer-free)
 
 </div>
 
@@ -108,7 +108,7 @@ You need a way to view Snapchat content. Without logging in. Without leaving tra
 6. **🔍 Enter Username** — type Snapchat username
 7. **🔎 Click Search** — view profile and stories anonymously
 
-[![Download Snapchat Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/snapchat-viewer-free)
+[![Download Snapchat Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/snapchat-viewer-free)
 
 ### Viewing Stories Anonymously
 
@@ -210,7 +210,7 @@ Watch Snapchat stories completely anonymously. **Snapchat Viewer** lets you view
 
 <div align="center">
 
-[![Download Snapchat Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/snapchat-viewer-free)
+[![Download Snapchat Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/snapchat-viewer-free)
 
 **Version 4.6.1** — Anonymous Snapchat viewer. Free forever.
 
